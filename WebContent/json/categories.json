@@ -1,0 +1,116 @@
+{
+    "data": [
+        {
+            "children": [
+                {
+                    "id": 10007,
+                    "title": "北京菜",
+                    "type": 1,
+                    "url": "/GetVagetableListServlet"
+                },
+                {
+                    "id": 10006,
+                    "title": "鲁菜",
+                    "type": 1,
+                    "url": "/GetVagetableListServlet"
+                },
+                {
+                    "id": 10008,
+                    "title": "川菜",
+                    "type": 1,
+                    "url": "/GetVagetableListServlet"
+                },
+                {
+                    "id": 10010,
+                    "title": "湘菜",
+                    "type": 1,
+                    "url": "/GetVagetableListServlet"
+                },
+                {
+                    "id": 10091,
+                    "title": "闽南菜",
+                    "type": 1,
+                    "url": "/GetVagetableListServlet"
+                },
+                {
+                    "id": 10012,
+                    "title": "凉菜",
+                    "type": 1,
+                    "url": "/GetVagetableListServlet"
+                },
+                {
+                    "id": 10095,
+                    "title": "东北菜",
+                    "type": 1,
+                    "url": "/GetVagetableListServlet"
+                },
+                {
+                    "id": 10009,
+                    "title": "新疆菜",
+                    "type": 1,
+                    "url": "/GetVagetableListServlet"
+                },
+                {
+                    "id": 10093,
+                    "title": "四川菜",
+                    "type": 1,
+                    "url": "/GetVagetableListServlet"
+                },
+                {
+                    "id": 10011,
+                    "title": "广州菜",
+                    "type": 1,
+                    "url": "/GetVagetableListServlet"
+                },
+                {
+                    "id": 10094,
+                    "title": "安徽菜",
+                    "type": 1,
+                    "url": "/GetVagetableListServlet"
+                },
+                {
+                    "id": 10105,
+                    "title": "山西菜",
+                    "type": 1,
+                    "url": "/GetVagetableListServlet"
+                }
+            ],
+            "id": 10000,
+            "title": "菜品",
+            "type": 1
+        },
+        {
+            "id": 10002,
+            "title": "饮品",
+            "type": 10,
+            "url": "/10006/list_1.json",
+            "url1": "/10007/list1_1.json"
+        },
+        {
+            "id": 10003,
+            "title": "甜点",
+            "type": 2,
+            "url": "/10008/list_1.json"
+        },
+        {
+            "dayurl": "",
+            "excurl": "",
+            "id": 10004,
+            "title": "水果",
+            "type": 3,
+            "weekurl": ""
+        }
+    ],
+    "extend": [
+        10007,
+        10006,
+        10008,
+        10014,
+        10012,
+        10091,
+        10009,
+        10010,
+        10095
+    ],
+    "retcode": 200
+}
